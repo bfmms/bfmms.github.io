@@ -3,6 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bfms.hr/</loc>
+    <lastmod>2026-05-15</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://bfms.hr/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://bfms.hr/en/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://bfms.hr/de/" />
@@ -10,6 +11,7 @@
   </url>
   <url>
     <loc>https://bfms.hr/en/</loc>
+    <lastmod>2026-05-15</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://bfms.hr/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://bfms.hr/en/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://bfms.hr/de/" />
@@ -17,6 +19,7 @@
   </url>
   <url>
     <loc>https://bfms.hr/de/</loc>
+    <lastmod>2026-05-15</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://bfms.hr/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://bfms.hr/en/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://bfms.hr/de/" />
